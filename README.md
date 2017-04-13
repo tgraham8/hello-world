@@ -1,2 +1,2 @@
 # hello-world
-My first repository on Git
+New to Git and trying to better understand the uses.
